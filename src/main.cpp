@@ -87,6 +87,7 @@ void loop() {
     Serial.print("Yellow Light PAUSE: ");
     Serial.println(switch3);
     Serial.println("");
+    //Hello
 
     if (switch1==1)
     {
